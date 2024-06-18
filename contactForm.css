@@ -1,0 +1,67 @@
+body{
+    background-image: url(bus.jpg);
+}
+
+
+input,textarea{
+    font-family: 'Courier New', Courier, monospace;
+    border:none;
+    border-radius: 8px;
+    background-color: rgb(209, 205, 205);
+    color: rgb(109, 108, 108);
+    padding:9px;
+    width:300px;
+}
+.btn{
+    background-color: rgb(32, 209, 32);
+    border:none;
+    padding:10px;
+    width:320px;
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+    border-radius: 8px;
+}
+.com{
+    float:left;
+    
+}
+.main{
+    width:800px;
+    height:400px;
+    margin:100px 250px;
+    background-color: white;
+    border-radius: 25px 25px;
+    box-shadow:1px 1px 10px 1px;
+    
+}
+.first{
+    width:400px;
+    height: 400px;
+    border-radius: 15px;
+    
+}
+img{
+    width:400px;
+    height: 400px;
+    border-radius: 25px 0px 0px 25px;
+}
+.second{
+    width:300px;
+    height:350px;
+    padding:30px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline rgb(28, 107, 28);
+}
+.btn:hover{
+    background-color:red;
+}
+textarea:hover{
+    background-color: rgb(184, 182, 182);
+}
+input:hover{
+    background-color:rgb(184, 182, 182) ;
+}
+
